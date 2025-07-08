@@ -156,9 +156,13 @@ Greener oceans
 Empowered maritime decision-making
 
 ## 📸 OUTPUT SNAPSHOTS
-![Screenshot 2025-07-08 090506](https://github.com/user-attachments/assets/c3e69ad9-a3ba-413c-8f04-87933c0af64e)
-![Screenshot 2025-07-08 090441](https://github.com/user-attachments/assets/6fed85dc-9b29-4151-bd4d-f520e05a9b30)
-![Screenshot 2025-07-08 090417](https://github.com/user-attachments/assets/0ef76eda-09dc-486c-be93-3029a4b72d80)
-![Screenshot 2025-07-08 090359](https://github.com/user-attachments/assets/9dc06b09-0964-46d8-9d1b-2940b98b579e)
-![Screenshot 2025-07-08 090312](https://github.com/user-attachments/assets/8e1d6b06-2274-4fcc-bd59-2b25e1936cc9)
+
 ![Screenshot 2025-07-08 090247](https://github.com/user-attachments/assets/c66936fe-73f1-463c-b496-b27cca065a3b)
+![Screenshot 2025-07-08 090312](https://github.com/user-attachments/assets/8e1d6b06-2274-4fcc-bd59-2b25e1936cc9)
+![Screenshot 2025-07-08 090359](https://github.com/user-attachments/assets/9dc06b09-0964-46d8-9d1b-2940b98b579e)
+![Screenshot 2025-07-08 090417](https://github.com/user-attachments/assets/0ef76eda-09dc-486c-be93-3029a4b72d80)
+![Screenshot 2025-07-08 090441](https://github.com/user-attachments/assets/6fed85dc-9b29-4151-bd4d-f520e05a9b30)
+![Screenshot 2025-07-08 090506](https://github.com/user-attachments/assets/c3e69ad9-a3ba-413c-8f04-87933c0af64e)
+
+
+
