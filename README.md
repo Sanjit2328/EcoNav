@@ -1,8 +1,8 @@
-##🚢 ECONAV – AI-Powered Sustainable Maritime Routing
-##🔗 WEB APP LINK:
+# 🚢 ECONAV – AI-Powered Sustainable Maritime Routing
+## 🔗 WEB APP LINK:
 https://your-econav-link.vercel.app 
 
-##🧭 BRIEF INTRO:
+## 🧭 BRIEF INTRO:
 EcoNav is an AI-powered web platform designed to revolutionize maritime navigation through sustainable route optimization. It provides real-time, AI-driven marine routing that minimizes fuel consumption, reduces carbon emissions, and enhances safety by factoring in weather, ocean currents, and maritime regulations. With both online and offline capabilities, EcoNav empowers maritime operators to make environmentally responsible and cost-efficient decisions.
 
 ##🚨 PROBLEM STATEMENT:
@@ -86,7 +86,7 @@ Push to GitHub triggers automatic deployments.
 
 Optional test runs on Actions for AI backend.
 
-##✨ NOVELTY
+## ✨ NOVELTY
 🌍 AI for Maritime Sustainability
 EcoNav’s biggest innovation lies in applying Reinforcement Learning and real-time data integration to maritime logistics. It dynamically optimizes for:
 
@@ -105,7 +105,7 @@ Downloadable GPX/KML routes.
 
 Scalable architecture supports both large shipping fleets and small independent boats.
 
-🧑‍💻 USER-CENTRIC DESIGN
+**🧑‍💻 USER-CENTRIC DESIGN**
 📱 Intuitive Interface
 Clean, easy-to-navigate UI with route selection options.
 
@@ -126,7 +126,7 @@ Simple navigation, dark/light modes, and mobile support.
 
 These insights motivate users, help fine-tune decisions, and promote green shipping behavior.
 
-##🚀 SOLUTION SUMMARY
+## 🚀 SOLUTION SUMMARY
 EcoNav provides an end-to-end solution for eco-friendly maritime navigation. It combines powerful AI, live environmental data, and user-centric features to promote sustainability in the shipping industry.
 
 **Key Features:**
@@ -155,7 +155,7 @@ Greener oceans
 
 Empowered maritime decision-making
 
-##📸 OUTPUT SNAPSHOTS
+## 📸 OUTPUT SNAPSHOTS
 ![Screenshot 2025-07-08 090506](https://github.com/user-attachments/assets/c3e69ad9-a3ba-413c-8f04-87933c0af64e)
 ![Screenshot 2025-07-08 090441](https://github.com/user-attachments/assets/6fed85dc-9b29-4151-bd4d-f520e05a9b30)
 ![Screenshot 2025-07-08 090417](https://github.com/user-attachments/assets/0ef76eda-09dc-486c-be93-3029a4b72d80)
